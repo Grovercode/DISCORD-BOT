@@ -26,3 +26,11 @@ The template comes with a `appsettings.json` which can be used to provide the pr
 * [Microsoft.Extensions.DependencyInjection](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/)
 * [Microsoft.Extensions.Hosting](https://www.nuget.org/packages/Microsoft.Extensions.Hosting/)
 * [Microsoft.Extensions.Logging](https://www.nuget.org/packages/Microsoft.Extensions.Logging/)
+
+
+## Screenshots
+
+![1](https://user-images.githubusercontent.com/57047418/121925286-70923680-cd45-11eb-878d-80accecfc732.JPG)
+
+
+
