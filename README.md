@@ -30,13 +30,25 @@ The template comes with a `appsettings.json` which can be used to provide the pr
 
 ## Screenshots
 
-![1-min](https://user-images.githubusercontent.com/57047418/121925943-18a7ff80-cd46-11eb-94dc-df598dce9d93.JPG)
+<title>Example</title>
+<style>
+.cats {
+  max-width: 50%;
+}
+</style>
+<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" class="cats" alt="Photo of kitten">
 
-![2-min](https://user-images.githubusercontent.com/57047418/121925959-1e054a00-cd46-11eb-838d-271a4efa59dc.JPG)
 
-![3-min](https://user-images.githubusercontent.com/57047418/121926002-278eb200-cd46-11eb-8da6-32a78b2137e5.JPG)
-
-![4-min](https://user-images.githubusercontent.com/57047418/121926041-337a7400-cd46-11eb-815c-b21670c1e3c9.JPG)
-
-![5-min](https://user-images.githubusercontent.com/57047418/121926060-3a08eb80-cd46-11eb-8f23-f0c8a6f6c2b8.JPG)
+<img src="https://i.imgur.com/yg3BYh4.png" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="400" height="400">
+     
+<img src="https://i.imgur.com/yg3BYh4.png" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="400" height="400">
+     
+ <img src="https://i.imgur.com/yg3BYh4.png" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
+     
+     
+ <img src="https://i.imgur.com/yg3BYh4.png" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
 
