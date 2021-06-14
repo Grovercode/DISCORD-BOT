@@ -31,6 +31,6 @@ The template comes with a `appsettings.json` which can be used to provide the pr
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/57047418/121925286-70923680-cd45-11eb-878d-80accecfc732.JPG" align="left"
-     alt="Size Limit logo by Anton Lovchikov" width="500" height="500">
+     alt="Size Limit logo by Anton Lovchikov" width="400" height="300">
 
 
