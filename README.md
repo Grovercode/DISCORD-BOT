@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/yg3BYh4.png" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
 
-## Prefix to get the bot started
+## Prefix to get the bot started!
 
 ```
 
