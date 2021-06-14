@@ -31,14 +31,8 @@ The template comes with a `appsettings.json` which can be used to provide the pr
 ## Screenshots
 
 
-<!DOCTYPE html>
-<title>Example</title>
-<style>
-.cats {
-  max-width: 10%;
-}
-</style>
-<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" class="cats" alt="Photo of kitten">
+
+<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400">
 
 
 
