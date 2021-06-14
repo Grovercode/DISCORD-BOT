@@ -34,18 +34,12 @@ The template comes with a `appsettings.json` which can be used to provide the pr
 
 <img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400">
 
+<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400">
 
+<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400">
 
-<img src="https://i.imgur.com/yg3BYh4.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="400" height="400">
-     
-<img src="https://i.imgur.com/yg3BYh4.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="400" height="400">
-     
- <img src="https://i.imgur.com/yg3BYh4.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
-     
-     
- <img src="https://i.imgur.com/yg3BYh4.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="120">
+<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400">
+
+<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400">
+
 
