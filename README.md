@@ -34,12 +34,12 @@ The template comes with a `appsettings.json` which can be used to provide the pr
 
 <img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400" align="left">
 
-<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400" align="right">
+<img src="https://user-images.githubusercontent.com/57047418/121926907-20b46f00-cd47-11eb-99e4-bec34c3aedfe.JPG" width="400" height="400" align="right">
 
-<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400" align="left">
+<img src="https://user-images.githubusercontent.com/57047418/121926909-21e59c00-cd47-11eb-965b-94cd5ffda197.JPG" width="400" height="400" align="left">
 
-<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400" align="right">
+<img src="https://user-images.githubusercontent.com/57047418/121926911-227e3280-cd47-11eb-8e7e-e2871ba52bf2.JPG" width="400" height="400" align="right">
 
-<img src="https://user-images.githubusercontent.com/57047418/121926898-1eeaab80-cd47-11eb-834f-9291c0dd3c94.JPG" width="400" height="400" align="left">
+<img src="https://user-images.githubusercontent.com/57047418/121926915-23af5f80-cd47-11eb-95fb-0d027d374369.JPG" width="400" height="400" align="left">
 
 
